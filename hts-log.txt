@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 10 Oct 2022 16:20:51 at https://98.js.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://98.js.org/ -O1 "C:\Users\lenovo\Desktop\HTTTRACK\Win98" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:21:05	Error: 	"Not Found" (404) at link https://98.js.org/98.js (from https://98.js.org/)
+16:21:08	Error: 	"Not Found" (404) at link https://98.js.org/images/icons/notepad-48x48.png (from https://98.js.org/programs/notepad/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 60 links scanned, 57 files written (1965471 bytes overall) [723551 bytes received at 42561 bytes/sec], 1757471 bytes transferred using HTTP compression in 45 files, ratio 24%, 20.3 requests per connection
+(2 errors, 0 warnings, 0 messages)
